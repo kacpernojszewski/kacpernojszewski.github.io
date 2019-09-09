@@ -1,0 +1,9 @@
+me "Kacper-Nojszewski"
+navbat:
+    title: "Kacper Nojszewski"
+    left:
+        -text: "About Me"
+        href: index.html
+        -text: "CV"
+        href: cv.html
+
