@@ -1,0 +1,12 @@
+---
+title: Kacper Nojszewski
+email: kacpernojszewski@gmail.com
+---
+##### kacpernojszewski@gmail.com
+
+## General Info
+
+My name is Kacper Nojszewski, I am a student at Military University of
+Technology in Warsaw and once I complete my course I will have engineering degree in computer science. The sole purpose of this website is to teach myself R markdown and Git but you can find here some infomration about me like my CV or some projects that i created. I plan to expand this website more in the future but for now thats all.
+
+

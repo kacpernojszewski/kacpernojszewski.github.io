@@ -1,0 +1,21 @@
+--- title: Kacper Nojszewski
+output: html_document
+---
+
+### Contact:
+Email: kacpernojszewski@gmail.com
+
+Phone: 518-721-197
+
+Website: <www.nojszewski.eu>
+
+## Experience
+
+2018 - Now Membership in science Club "Koło Zainteresowań Cybernetycznych" - KZC
+
+<i>Military University of Technology in Warsaw, Cybernetics Faculty</i>
+
+Group activity is mainly about meetings in which we develop our skills in computer science, especially in direction of cybersecurity.
+
+
+

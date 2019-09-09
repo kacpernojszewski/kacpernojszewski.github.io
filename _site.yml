@@ -1,13 +1,12 @@
 name: "Kacper-Nojszewski"
 navbar:
-    title: "Kacper Nojszewski"
     left:
-        -text: "About Me"
-        href: index.html
-        -text: "CV"
-        href: cv.html
+        - text: "About Me"
+          href: index.html
+        - text: "CV"
+          href: cv.html
 
 output:
     html_document:
-        theme: cosmo
+        theme: paper
         css: font-awesome-5.1.0/css/all.css
