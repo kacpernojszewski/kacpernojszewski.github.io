@@ -1,4 +1,4 @@
-me "Kacper-Nojszewski"
+name: "Kacper-Nojszewski"
 navbar:
     title: "Kacper Nojszewski"
     left:
@@ -8,7 +8,6 @@ navbar:
         href: cv.html
 
 output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
-    css: font-awesome-5.1.0/css/all.css
+    html_document:
+        theme: cosmo
+        css: font-awesome-5.1.0/css/all.css
