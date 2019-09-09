@@ -1,5 +1,5 @@
 me "Kacper-Nojszewski"
-navbat:
+navbar:
     title: "Kacper Nojszewski"
     left:
         -text: "About Me"
@@ -11,3 +11,4 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
+    css: font-awesome-5.1.0/css/all.css
